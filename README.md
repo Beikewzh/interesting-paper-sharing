@@ -12,7 +12,7 @@ This is a place to share some interesting papers. We will continue to add useful
 ## Transfer Learning
 
 ### Continual Learning
-* Coming soon...
+* Resetting the Optimizer in Deep RL: An Empirical Study (2023) [@NeuralPS](https://arxiv.org/pdf/2306.17833.pdf)
 
 
 
